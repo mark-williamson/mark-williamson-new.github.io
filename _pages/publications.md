@@ -12,7 +12,7 @@ author_profile: true
 
 [Article](https://doi.org/10.1017/S0008423925100899){: .btn--research} [Replication Files](https://doi.org/10.7910/DVN/YBLLKI){: .btn--research} [Pre-Analysis Plan](https://aspredicted.org/htgn-vy4p.pdf){: .btn--research}
     
-Williamson, Mark. (2025). "Covid-19 and Preferences for Progressive Taxation: Evidence from a 2020 U.S. Ballot Proposal." Journal of Elections, Public Opinion, and Parties.*
+Williamson, Mark. (2025). "Covid-19 and Preferences for Progressive Taxation: Evidence from a 2020 U.S. Ballot Proposal." *Journal of Elections, Public Opinion, and Parties.*
 
 [Article](https://doi.org/10.1080/17457289.2025.2610633){: .btn--research} [Pre-Print](/files/covid19_paper/covid19.pdf){: .btn--research} [Replication Files](https://doi.org/10.7910/DVN/EB9GKX){: .btn--research} 
     
