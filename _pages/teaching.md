@@ -11,6 +11,7 @@ author_profile: true
 **Undergraduate**
 - [POLI 312:  Intermediate Quantitative Methods](/files/teaching/POLI 312 Syllabus.pdf)
 - [POLI 521: Canadian Political Behaviour](/files/teaching/POLI 521_syllabus.pdf)
+- [IDFC 500: Indigenous Field Studies](https://coursecatalogue.mcgill.ca/courses/idfc-500/index.html) (Co-instructor)
 
 **Graduate**
 - [POLI 632: Voting Behaviour and Public Opinion](/files/teaching/POLI 632 Syllabus.pdf)
